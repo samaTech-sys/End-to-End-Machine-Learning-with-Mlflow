@@ -1,0 +1,13 @@
+pandas 
+mlflow 
+numpy 
+scikit-learn
+matplotlib
+python-box
+pyYAML
+tqdm
+joblib
+types-pyYAML
+Flask
+Flask-cors
+-e . #to pick up setupfile automatically during installation
