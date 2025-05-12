@@ -167,6 +167,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+#All that should be ignored and not committed to git.
+artifacts/*
+
 # Ruff stuff:
 .ruff_cache/
 

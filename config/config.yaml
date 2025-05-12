@@ -1,7 +1,8 @@
+#Setting artifacts root directory and all the necessary directories
 artifacts_root: artifacts
 
 data_ingestion: 
   root_dir: artifacts/data_ingestion
-  src_URL: https://github.com/samaTech-sys/End-to-End-Machine-Learning-with-Mlflow.git
+  source_url: https://github.com/samaTech-sys/End-to-End-Machine-Learning-with-Mlflow/raw/main/winequality-red.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
