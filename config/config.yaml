@@ -1,14 +1,20 @@
 #Setting artifacts root directory and all the necessary directories
 artifacts_root: artifacts
 
+#Data ingestion repositories
 data_ingestion: 
   root_dir: artifacts/data_ingestion
   source_url: https://github.com/samaTech-sys/End-to-End-Machine-Learning-with-Mlflow/raw/main/winequality-red.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
 
-#Data Validation step configurations 
+#Data Validation repositories
 data_validation: 
   root_dir: artifacts/data_validation
   unzip_data_dir: artifacts/data_ingestion/winequality-red.csv
   STATUS_FILE: artifacts/data_validation/status.txt
+
+#Data Transformation repositories
+data_transformation: 
+  root_dir: artifacts/data_transformation
+  data_path: artifacts/data_ingestion/winequality-red.csv
