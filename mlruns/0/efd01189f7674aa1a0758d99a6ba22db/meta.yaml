@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Desktop/MLDefaults/End-to-End-Machine-Learning-with-Mlflow/mlruns/0/efd01189f7674aa1a0758d99a6ba22db/artifacts
+end_time: 1747126848778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efd01189f7674aa1a0758d99a6ba22db
+run_name: orderly-snipe-125
+run_uuid: efd01189f7674aa1a0758d99a6ba22db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747126818290
+status: 4
+tags: []
+user_id: SamaTech-sys

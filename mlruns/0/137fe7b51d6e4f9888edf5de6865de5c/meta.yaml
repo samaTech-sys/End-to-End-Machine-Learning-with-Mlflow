@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Desktop/MLDefaults/End-to-End-Machine-Learning-with-Mlflow/mlruns/0/137fe7b51d6e4f9888edf5de6865de5c/artifacts
+end_time: 1747126477315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 137fe7b51d6e4f9888edf5de6865de5c
+run_name: grandiose-ox-109
+run_uuid: 137fe7b51d6e4f9888edf5de6865de5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747126476869
+status: 4
+tags: []
+user_id: SamaTech-sys

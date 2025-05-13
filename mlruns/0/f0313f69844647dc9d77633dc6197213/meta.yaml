@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Desktop/MLDefaults/End-to-End-Machine-Learning-with-Mlflow/mlruns/0/f0313f69844647dc9d77633dc6197213/artifacts
+end_time: 1747127226921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0313f69844647dc9d77633dc6197213
+run_name: loud-slug-256
+run_uuid: f0313f69844647dc9d77633dc6197213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747127213216
+status: 3
+tags: []
+user_id: SamaTech-sys

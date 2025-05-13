@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Desktop/MLDefaults/End-to-End-Machine-Learning-with-Mlflow/mlruns/0/47d9e6748d2f43e6ac268970885a8691/artifacts
+end_time: 1747126158261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47d9e6748d2f43e6ac268970885a8691
+run_name: secretive-crab-46
+run_uuid: 47d9e6748d2f43e6ac268970885a8691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747126157868
+status: 4
+tags: []
+user_id: SamaTech-sys

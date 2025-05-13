@@ -1,15 +1,15 @@
 pandas 
-mlflow 
+mlflow
 numpy 
 scikit-learn
 matplotlib
 python-box
-pyYAML
+pyyaml
 tqdm
 joblib
 ensure
 typeguard #Checks types at runtime 
-types-pyYAML
+types-pyyaml
 Flask
 Flask-cors
 -e . #to pick up setupfile automatically during installation
