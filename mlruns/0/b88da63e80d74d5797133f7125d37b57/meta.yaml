@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Desktop/MLDefaults/End-to-End-Machine-Learning-with-Mlflow/mlruns/0/b88da63e80d74d5797133f7125d37b57/artifacts
+end_time: 1747128866560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b88da63e80d74d5797133f7125d37b57
+run_name: worried-snipe-298
+run_uuid: b88da63e80d74d5797133f7125d37b57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747128839824
+status: 3
+tags: []
+user_id: SamaTech-sys
