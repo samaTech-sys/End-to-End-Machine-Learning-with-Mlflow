@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Desktop/MLDefaults/End-to-End-Machine-Learning-with-Mlflow/mlruns/0/62ee2f67050f424f9b3c60b9d89189ef/artifacts
+end_time: 1747165523515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62ee2f67050f424f9b3c60b9d89189ef
+run_name: orderly-duck-175
+run_uuid: 62ee2f67050f424f9b3c60b9d89189ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747165500554
+status: 3
+tags: []
+user_id: USER

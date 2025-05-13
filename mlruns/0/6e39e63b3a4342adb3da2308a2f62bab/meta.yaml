@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Desktop/MLDefaults/End-to-End-Machine-Learning-with-Mlflow/mlruns/0/6e39e63b3a4342adb3da2308a2f62bab/artifacts
+end_time: 1747154206121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e39e63b3a4342adb3da2308a2f62bab
+run_name: carefree-lark-864
+run_uuid: 6e39e63b3a4342adb3da2308a2f62bab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747154205897
+status: 4
+tags: []
+user_id: USER

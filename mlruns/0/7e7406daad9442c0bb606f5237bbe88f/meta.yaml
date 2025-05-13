@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Desktop/MLDefaults/End-to-End-Machine-Learning-with-Mlflow/mlruns/0/7e7406daad9442c0bb606f5237bbe88f/artifacts
+end_time: 1747154740107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e7406daad9442c0bb606f5237bbe88f
+run_name: sassy-penguin-875
+run_uuid: 7e7406daad9442c0bb606f5237bbe88f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747154725690
+status: 3
+tags: []
+user_id: USER

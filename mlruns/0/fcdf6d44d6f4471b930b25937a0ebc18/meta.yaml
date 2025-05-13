@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Desktop/MLDefaults/End-to-End-Machine-Learning-with-Mlflow/mlruns/0/fcdf6d44d6f4471b930b25937a0ebc18/artifacts
+end_time: 1747166405942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcdf6d44d6f4471b930b25937a0ebc18
+run_name: abrasive-snail-384
+run_uuid: fcdf6d44d6f4471b930b25937a0ebc18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747166387080
+status: 3
+tags: []
+user_id: USER

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/USER/Desktop/MLDefaults/End-to-End-Machine-Learning-with-Mlflow/mlruns/0/44ea127229534bfc85413d11239fa4fe/artifacts
+end_time: 1747166472236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44ea127229534bfc85413d11239fa4fe
+run_name: rambunctious-doe-928
+run_uuid: 44ea127229534bfc85413d11239fa4fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747166457341
+status: 3
+tags: []
+user_id: USER
